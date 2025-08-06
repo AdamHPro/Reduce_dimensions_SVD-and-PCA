@@ -4,5 +4,11 @@ def qui_est_grand(a, b) :
     elif a>b :
         print(a + "est strictement plus grand que" + b)
     else :
+    <<<<<<< HEAD
         print( a + "est égal à" + b)
+    print("Et la différence est :"+abs(a-b))
     print("Voici en plus le produit :"+a*b)
+
+
+    
+>>>>>>> update3
